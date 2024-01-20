@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Magazzino</title>
+</head>
+<body>
+    <h1>Magazzino</h1>
+    <p>
+        Lista dei prodotti nel magazzino
+        <button onclick="window.location.href='/prodotti'">Prodotti</button>
+    </p>
+</body>
+</html>

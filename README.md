@@ -5,5 +5,5 @@ Database magazzino sviluppato in Spring boot
 Creare un database chiamato magazzino e poi svolgere la query all'interno del file database.sql per creare e popolare la tabella prodotti
 
 # Accesso al sito
-username = admin
+username = admin;<br>
 password = password
